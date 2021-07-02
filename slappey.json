@@ -1,0 +1,7 @@
+{
+  "name": "SpiritBot",
+  "language": "javascript",
+  "manager": "npm",
+  "token": "",
+  "prefix": ">"
+}
